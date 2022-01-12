@@ -178,7 +178,7 @@ We may disclose your personal information with our service providers pursuant to
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal data.
 
-__________ has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. __________ will not sell personal information in the future belonging to website visitors, users and other consumers.
+Gadwal Ratbak has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. Gadwal Ratbak will not sell personal information in the future belonging to website visitors, users and other consumers.
 
 Your rights with respect to your personal data
 
@@ -223,13 +223,8 @@ We may update this privacy notice from time to time. The updated version will be
 
 8. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
 
-If you have questions or comments about this notice, you may email us at kmkm1415@outlook.sa or by post to:
-
-__________
-__________
-__________
-Saudia Arabia
+If you have questions or comments about this notice, you may email us at kmkm1415@outlook.sa
 
 9. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by email kmkm1415@outlook.sa.
